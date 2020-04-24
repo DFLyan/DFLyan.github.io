@@ -1,9 +1,10 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hello and welcome to this blog.
 
-![Image of fast.ai logo](images/logo.png)
+<!-- ![Image of fast.ai logo](images/logo.png) -->
 
-## This is a title
+## Introduction
+从事研究邻域：深度学习算法在压缩感知中的应用
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+谷歌学术个人档案：[陈基伟](https://sholar.google.citations?hl=zh-CN&user=Sls8Yg4AAAAJ)
 
-$$ t $$
+友情链接：南京信息工程大学 Nanjin University of Information Science and Technology [NUIST](https://www.nuist.edu.cn).
