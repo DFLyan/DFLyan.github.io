@@ -5,6 +5,6 @@ Hello and welcome to this blog.
 ## Introduction
 从事研究邻域：深度学习算法在压缩感知中的应用
 
-谷歌学术个人档案：[陈基伟](https://sholar.google.citations?hl=zh-CN&user=Sls8Yg4AAAAJ)
+谷歌学术个人档案：[陈基伟](https://scholar.google.citations?hl=zh-CN&user=Sls8Yg4AAAAJ)
 
 友情链接：南京信息工程大学 Nanjin University of Information Science and Technology [NUIST](https://www.nuist.edu.cn).
