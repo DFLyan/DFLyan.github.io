@@ -28,3 +28,4 @@
 
 深圳市人工智能与机器人研究院
 Shenzhen Institute of Artificial Intelligence and Robotics for Society ([AIRS](https://airs.cuhk.edu.cn/zh-hans))
+<center>
