@@ -2,16 +2,13 @@
 
 <!-- ![Image of fast.ai logo](images/logo.png) -->
 
-<center>
-
 # 个人介绍
 
-
-## 从事研究领域
+- ## 从事研究领域
 
 深度学习算法在图像压缩感知重建中的应用
 
-## 学习经历
+- ## 学习经历
 南京信息工程大学 自动化本科工学学士
 
 南京信息工程大学 控制科学与工程工学硕士
@@ -28,4 +25,3 @@
 
 深圳市人工智能与机器人研究院
 Shenzhen Institute of Artificial Intelligence and Robotics for Society ([AIRS](https://airs.cuhk.edu.cn/zh-hans))
-<center>
