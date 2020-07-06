@@ -6,13 +6,13 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: My blog
-description: Is building...
+title: 游戏人间
+description: 飞花漫雨，落尽旧时檐。
 github_username: DFLyan
 
 # Email and twitter are optional:
 email: jiweichen1994@163.com
-twitter_username: 
+twitter_username: DFLyan
 
 # OPTIONAL: override baseurl and url if using a custom domain
 #url:  the base hostname & protocol for your site, e.g. http://example.com
