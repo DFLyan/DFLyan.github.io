@@ -1,6 +1,6 @@
 欢迎来到我的个人主页
 
-<!-- ![Image of fast.ai logo](images/logo.png) -->
+[Image of fast.ai logo](images/研究生展个人照.jpg)
 
 # 个人介绍
 
